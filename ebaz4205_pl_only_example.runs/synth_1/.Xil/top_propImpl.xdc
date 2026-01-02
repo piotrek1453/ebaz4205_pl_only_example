@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:/home/juchap/kodzenie/FPGA/EBAZ4205/ebaz4205_pl_only_example/ebaz4205_pl_only_example.srcs/constrs_1/new/ebaz4205.xdc rfile:../../../ebaz4205_pl_only_example.srcs/constrs_1/new/ebaz4205.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W13 [get_ports {led_1}]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W14 [get_ports {led_0}]
+set_property src_info {type:XDC file:1 line:11 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN N18 [get_ports {clk_in}]
